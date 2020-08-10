@@ -1,0 +1,9 @@
+$dokka.format:html
+$dokka.linkExtension:html
+
+com.azure.android.storage.blob
+com.azure.android.storage.blob.credential
+com.azure.android.storage.blob.interceptor
+com.azure.android.storage.blob.models
+com.azure.android.storage.blob.transfer
+
